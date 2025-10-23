@@ -1,0 +1,28 @@
+PORTFOLIO SETUP INSTRUCTIONS
+=============================
+
+To complete your portfolio website setup, please add the following files:
+
+1. PROFILE IMAGE
+   Location: assets/images/profile.jpg
+   - Add your professional profile photo
+   - Recommended: 400x400px or larger (square format)
+   - Formats: JPG, PNG, or WebP
+
+2. RESUME PDF
+   Location: assets/resume.pdf
+   - Add your resume/CV in PDF format
+   - This will be downloadable when visitors click "View Resume"
+
+3. FAVICON
+   Location: favicon.ico (root directory)
+   - Add a favicon for your website
+   - Size: 16x16px or 32x32px
+   - Format: ICO, PNG, or SVG
+
+OPTIONAL CUSTOMIZATIONS:
+- Update social media links in index.html (footer section)
+- Customize colors in style.css (CSS custom properties)
+- Add your Facebook and LinkedIn profile URLs
+
+Once these files are added, your portfolio will be complete and ready to deploy!
